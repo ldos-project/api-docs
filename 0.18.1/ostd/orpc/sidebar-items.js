@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"attr":["orpc_impl","orpc_server","orpc_trait","trace_methods"],"derive":["TupleSerialize"],"macro":[["new_server",1]],"mod":["errors","framework","oqueue","path","serialization","statistics","sync"]};

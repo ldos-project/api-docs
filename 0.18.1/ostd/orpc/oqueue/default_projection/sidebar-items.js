@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"derive":["DefaultProjection","Immutable","IntoBytes","KnownLayout"],"struct":["OID"],"trait":["DefaultProjection","Immutable","IntoBytes","KnownLayout","OpaqueId","Projectable"]};
