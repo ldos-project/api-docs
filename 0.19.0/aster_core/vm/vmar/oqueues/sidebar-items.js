@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["get_page_fault_oqueue","get_rss_delta_oqueue"],"static":["GLOBAL_RSS","PAGE_FAULT_OQUEUE","RSS_DELTA_OQUEUE"],"struct":["ObservableEvent"]};
